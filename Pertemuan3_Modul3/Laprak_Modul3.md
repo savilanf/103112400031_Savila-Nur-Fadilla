@@ -204,7 +204,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output
-![Screenshot Output Unguided 1_1](https://github.com/savilanf/103112400031_Savila-Nur-Fadilla/blob/main/Pertemuan2_Modul2/output/output-unguided1.png)
+![Screenshot Output Unguided 1_1](https://github.com/savilanf/103112400031_Savila-Nur-Fadilla/blob/main/Pertemuan3_Modul3/output/output-unguided1.png)
 
 Kode dengan bahasa pemrograman C++ yang bertujuan untuk menyimpan data mahasiswa (max 10). Bagian include iostream itu untuk memasukkan file header iostream. Di dalam program ada struct mahasiswa yang akan menyimpan data mahasiswa seperti nama, nim, dan nilai nilainya. Ada float umtuk menghitung rumus untuk nilai akhir. Kemudian program menjalanlan fungsi main, di fungsi main kita diminta input jumlah mahasiswa (maks 10) lalu diminta input nama, nim, dan lainnya. Ada perulangan (input data sampai jumlah mahassiwa yang diinput tadi terpenuhi). Data itu disimpan di struct dan ditampilkan di output beserta nilai akhirnya yang dihitung dengan rumus di float nilai akhir.
 
@@ -281,7 +281,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output
-![Screenshot Output Unguided 2_1](https://github.com/savilanf/103112400031_Savila-Nur-Fadilla/blob/main/Pertemuan2_Modul2/output/output-unguided2.png)
+![Screenshot Output Unguided 2_1](https://github.com/savilanf/103112400031_Savila-Nur-Fadilla/blob/main/Pertemuan3_Modul3/output/output-unguided2.png)
 
 Kode dengan bahasa pemrograman C++ yang bertujuan untuk membuat dan menampilkan data pelajaran dengan konsep ADT. Data pelajaran (nama dan kode) dikemas dalam satu tipe data (pelajaran). Inputnya berupa nama pelajaran (struktur data) dan kode pelajaran (STD). Output berupa string nama pelajaran dan nilai atau kode pelajaran yang sudah kita inputkan.
 
@@ -367,7 +367,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output
-![Screenshot Output Unguided 3_1](https://github.com/savilanf/103112400031_Savila-Nur-Fadilla/blob/main/Pertemuan2_Modul2/output/output-unguided3.png)
+![Screenshot Output Unguided 3_1](https://github.com/savilanf/103112400031_Savila-Nur-Fadilla/blob/main/Pertemuan3_Modul3/output/output-unguided3.png)
 
 Kode dengan bahasa pemrograman C++ yang bertujuan untuk menampilkan isi sebuah array integer 2D, menukarkan isi dari 2 array integer 2D pada posisi tertentu, menukarkan isi dari variabel yang ditunjuk oleh 2 buah pointer. Bagian include iostream itu untuk memasukkan file header iostream. Ada prosedur tukar posisi array, tukar pointer, dan tampilkan array. Kemudian program menjalanlan fungsi main, di sini akan mengeluarkan output, ada menampilkan array, lalu array setelah tukar posisi, menampilkan isi variabel sebelum pointer ditukar dan setelah pointer ditukar.
 
