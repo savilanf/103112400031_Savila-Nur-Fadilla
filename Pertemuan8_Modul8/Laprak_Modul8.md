@@ -667,7 +667,7 @@ void printInfo(Queue Q) {
 }
 ```
 
-### file: queue_.2cpp
+### file: queue_2.cpp
 ### NOMOR 2 queue alternatif 2 (head bergerak, tail bergerak)
 ```C++
 #include "queue.h"
