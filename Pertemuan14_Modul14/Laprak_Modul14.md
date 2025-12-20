@@ -8,7 +8,7 @@ Graph didefinisikan sebagai representasi grafis dari sekumpulan vertices (simpul
 ### B. Jenis Graph<br/>
 Graf tidak berarah (undirected graph) adalah graf di mana sisi tidak memiliki arah, sehingga hubungan antar simpul bersifat dua arah. Sebaliknya, graf berarah (directed graph) adalah graf yang setiap sisinya memiliki arah tertentu dari satu simpul ke simpul lainnya. Perbedaan utama keduanya terletak pada ada atau tidaknya orientasi arah pada sisi, yang memengaruhi cara representasi dan pemrosesan graf dalam pemrograman dan algoritma [2].
 
-### B. ADT Graph<br/>
+### C. ADT Graph<br/>
 Struktur graph terdiri dari [3]:
 - Node → menyimpan info, status visited, predecessor, dan list edge
 - Edge → menunjuk node tujuan
